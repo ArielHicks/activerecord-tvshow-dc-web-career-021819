@@ -8,5 +8,5 @@ class CreateShows < ActiveRecord::Migration
     t.string :network
     t.integer :rating
    end
-
+ end 
 end
